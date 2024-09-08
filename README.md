@@ -3,4 +3,6 @@
 ## <a href="https://dentonmay.github.io/About/">About</a>
 ## <a href="https://dentonmay.github.io/Projects/">Projects</a>
 ## <a href="https://dentonmay.github.io/Contact/">Contact</a>
-
+<script>
+  document.body.style.backgroundColor = "lightgreen";
+</script>
