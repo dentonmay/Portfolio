@@ -1,5 +1,5 @@
 # Denton's Portfolio
-## <a href="https://dmay.github.io/about">About</a>
+## <a href="https://dentonmay.github.io/dmay.github.io/about">About</a>
 ## Projects
 ## Contact
 
