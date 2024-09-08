@@ -1,3 +1,3 @@
 # Denton's Portfolio
-<src img="Images/IMG_3537.jpeg">
+<img src="Images/IMG_3537.jpeg">
 
